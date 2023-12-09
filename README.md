@@ -11,4 +11,4 @@ The collection of the Chinese dataset consists of two parts.
 2. The second part, named 'ZH_ifs.csv', involves collecting potential Chinese metaphorical advertising samples from a large-scale Chinese commercial advertising dataset publicly released by the 2021 iFlytek Advertising Image Classification Competition. The first column represents the image ID, which corresponds to the IDs in the 2021 advertising dataset and can be used to retrieve the images.
 
 # Citation
-MultiCMET: A Novel Chinese Benchmark for Understanding Multimodal Metaphor (Zhang et al., Findings 2023)
+Dongyu Zhang, Jingwei Yu, Senyuan Jin, Liang Yang, and Hongfei Lin. 2023. MultiCMET: A Novel Chinese Benchmark for Understanding Multimodal Metaphor. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 6141–6154, Singapore. Association for Computational Linguistics.
